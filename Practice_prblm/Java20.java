@@ -13,7 +13,7 @@ public class Java20{
                 Scanner sc =  new Scanner(System.in);
                 System.out.print("Enter Processor Brand: ");
                 brand = sc.nextLine();
-                System.out.print("Enter Processor Speed: ");
+                System.out.print("Enter Processor Speed (in GHz): ");
                 speed = sc.nextDouble();
                 System.out.println("Processor Brand: " + brand);
                 System.out.println("Processor Speed: " + speed + " GHz");
