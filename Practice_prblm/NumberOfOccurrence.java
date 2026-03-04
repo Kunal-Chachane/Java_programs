@@ -25,6 +25,6 @@ public class NumberOfOccurrence{
             }
         }
         System.out.println("Number of occurrences of " + target + ": " + count);
+     scanner.close();
     }
-    scanner.close();
 }
