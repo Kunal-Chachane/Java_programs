@@ -23,7 +23,7 @@ public class PowerOfTwo {
         System.out.print("Enter a number: ");
         int n = scanner.nextInt();
         boolean result = num.isPowerOfTwo(n);
-        System.out.println(result); // Output: true
+        System.out.println(result); 
     }
 }
 
