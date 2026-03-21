@@ -17,7 +17,7 @@ The goal of this repository is simple:
 ## 📚 What You'll Find Here
 *   **Core Java Syntax & Logic:** Fundamental constructs like conditionals, loops, and basic math (`Conditionals.java`, `SumAndAverage.java`).
 *   **Object-Oriented Programming (OOP):** Deep dives into Classes, Constructors, Encapsulation, and Polymorphism (`Animal.java`, `CircleEncapsulation.java`, `Vehicle.java`).
-*   **Data Structures & Algorithms (DSA):** Implementation of classic problems and sorting algorithms (`BubbleSort.java`, `PascalTriangle.java`, `ValidAnagram.java`).
+*   **Data Structures & Algorithms (DSA):** Implementation of classic problems and sorting algorithms (`BubbleSort.java`, `FirstOccurrence.java`, `PascalTriangle.java`, `ValidAnagram.java`, `strStr.java`).
 *   **Console-Based Projects:** Mini applications that put theory into practice (`ATM_machine_project.java`).
 *   **Structured Revision:** A numbered series of programs (`Java01.java` to `Java25.java`) tracking daily progress and logic building.
 
